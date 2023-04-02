@@ -6,9 +6,9 @@ https://www.youtube.com/playlist?list=PLxVdIVhnvkUDFGiLo7o54AXwRxEUsUerV
 
 # Setting Up Development Environment (Windows 10)
 
-1. Download and Install visual Studio Code from following link,
+1. Download and Install visual Studio Code from following link,\
 https://code.visualstudio.com/
-2. Download and Install Python from following link, we have used python 3.10
+2. Download and Install Python from following link, we have used python 3.10\
 https://www.python.org/downloads/
 3. Download and Install Azure CLI for windows from following link,
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
